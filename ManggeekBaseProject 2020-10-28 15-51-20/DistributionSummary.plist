@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ManggeekBaseProject.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>57BE36FB7EE27CFF9488EDA3DBF94F4252C30D90</string>
+				<key>dateExpires</key>
+				<string>2021/9/25</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>3B843PQK8G.com.Manggeek.LJL2020</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.associated-domains</key>
+				<array>
+					<string>https://ljl.zhuangneizhu.com/</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>3B843PQK8G</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>兰精灵.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>5acec620-8752-4f3a-aeb0-9a218d5a597b</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.Manggeek.LJL2020</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>3B843PQK8G</string>
+				<key>name</key>
+				<string>Guangxi Lan Jing Ling Decoration Engineering Design Co., Ltd</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

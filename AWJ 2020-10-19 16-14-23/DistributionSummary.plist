@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AWJ.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>3E6DDE5B51C536D9DED7982D54E14DE05AEB4517</string>
+				<key>dateExpires</key>
+				<string>2020/12/28</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>AS48B54L9T.com.zjxnjz.awj</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.associated-domains</key>
+				<array>
+					<string>https://awj.anwja.com/awjh5/</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>AS48B54L9T</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>AWJ.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>4b7eb456-d9ad-4b48-a291-1a6044e2a792</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.zjxnjz.awj</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>AS48B54L9T</string>
+				<key>name</key>
+				<string>xingliang lv</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
